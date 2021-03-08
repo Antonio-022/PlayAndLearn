@@ -1,0 +1,90 @@
+C:\Users\Asus\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Asus\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Asus\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.logo1.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.contenedor2.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.test1.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.class_0.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.message.resources
+C:\Users\Asus\Desktop\proyecto\proyecto\obj\Debug\proyecto.version.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\bin\Debug\proyecto.exe.config
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.exe
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\bin\Debug\proyecto.exe
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\bin\Debug\proyecto.pdb
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.class_0.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.contenedor2.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.logo1.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.message.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.test1.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.version.resources
+D:\GALERIA\Ivar\Proyectos de Informatica\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.class_0.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.contenedor2.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.logo1.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.message.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.version.resources
+C:\Users\Asus\Desktop\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.class_0.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.contenedor2.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.logo1.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.message.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.version.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\bin\Debug\en-NL\proyecto.resources.dll
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.en-NL.resources
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\en-NL\proyecto.resources.dll
+C:\Users\Asus\Desktop\Nueva carpeta (2)\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.about.resources
+G:\ARCHIVOS\proyecto\proyecto\bin\Debug\proyecto.exe.config
+G:\ARCHIVOS\proyecto\proyecto\obj\Debug\proyecto.exe
+G:\ARCHIVOS\proyecto\proyecto\obj\Debug\proyecto.pdb
+G:\ARCHIVOS\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.about.resources
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.en-NL.resources
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\bin\Debug\PLAY AND LEARN.exe.config
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\bin\Debug\PLAY AND LEARN.exe
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\bin\Debug\PLAY AND LEARN.pdb
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\bin\Debug\en-NL\PLAY AND LEARN.resources.dll
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\obj\Debug\en-NL\PLAY AND LEARN.resources.dll
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\obj\Debug\PLAY AND LEARN.exe
+C:\Users\Asus\Desktop\Nueva carpeta\proyecto\proyecto\obj\Debug\PLAY AND LEARN.pdb
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\bin\Debug\play and learn.exe.config
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\play and learn.exe
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\play and learn.pdb
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\bin\Debug\play and learn.exe
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\bin\Debug\play and learn.pdb
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\bin\Debug\en-NL\play and learn.resources.dll
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.about.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.class_0.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.contenedor2.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.logo1.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.message.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.version.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.test1.en-NL.resources
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\proyectos\nueva carpeta\proyecto\proyecto\obj\Debug\en-NL\play and learn.resources.dll
+D:\Documents\upds\nueva carpeta\proyecto\proyecto\bin\Debug\play and learn.exe.config
+D:\Documents\upds\nueva carpeta\proyecto\proyecto\obj\Debug\play and learn.exe
+D:\Documents\upds\nueva carpeta\proyecto\proyecto\obj\Debug\play and learn.pdb
+D:\Documents\upds\nueva carpeta\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
